@@ -4,6 +4,8 @@ import SkillBadge from "@/components/SkillBadge";
 import ProjectCard from "@/components/ProjectCard";
 import StartupCard from "@/components/StartupCard";
 import SocialLinks from "@/components/SocialLinks";
+import neurokickScreenshot from "/neurokick-screenshot.png";
+import ianAvatar from "/ian.png";
 
 const workExperience = [
   {
@@ -149,7 +151,7 @@ const projects = [
       "Data Science",
     ],
     websiteUrl: "https://neurokick.ai/",
-    image: "./neurokick-screenshot.png",
+    image: neurokickScreenshot,
   },
   {
     title: "World's First Agent to Agent Payments Hackathon",
@@ -220,7 +222,7 @@ const Index = () => {
           <div className="flex items-start gap-6">
             <div className="w-32 h-32 rounded-full overflow-hidden bg-secondary flex-shrink-0">
               <img
-                src="./ian.png"
+                src={ianAvatar}
                 alt="Ian Timotheos-Pilon"
                 className="w-full h-full object-cover"
               />
