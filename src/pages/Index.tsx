@@ -293,10 +293,6 @@ const Index = () => {
             <h3 className="text-2xl font-semibold text-foreground mb-2">
               Proof of exceptional work
             </h3>
-            <p className="text-muted-foreground">
-              I've worked on a variety of projects, from simple websites to complex
-              web applications. Here are a few of my favorites.
-            </p>
           </div>
           <div className="grid gap-6 md:grid-cols-2">
             {projects.map((project) => (
