@@ -149,7 +149,7 @@ const projects = [
       "Data Science",
     ],
     websiteUrl: "https://neurokick.ai/",
-    image: "/neurokick-screenshot.png",
+    image: "./neurokick-screenshot.png",
   },
   {
     title: "World's First Agent to Agent Payments Hackathon",
@@ -220,7 +220,7 @@ const Index = () => {
           <div className="flex items-start gap-6">
             <div className="w-32 h-32 rounded-full overflow-hidden bg-secondary flex-shrink-0">
               <img
-                src="/ian.png"
+                src="./ian.png"
                 alt="Ian Timotheos-Pilon"
                 className="w-full h-full object-cover"
               />
