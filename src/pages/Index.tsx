@@ -209,18 +209,6 @@ const startups = [
       { name: "Cision", url: "https://www.newswire.ca/news-releases/cats-invade-worlds-largest-ethereum-hackathon-651263343.html" },
     ],
   },
-  {
-    logo: "/Ambient.png",
-    name: "Ambient Intelligence IoT Conference",
-    location: "Waterloo, Ontario",
-    period: "August 20, 2015",
-    description:
-      "Organized and hosted a conference focused on Ambient Intelligence and the Internet of Things, bringing together thought leaders and innovators to explore the future of connected environments and smart systems.",
-    backers: [],
-    mediaCoverage: [
-      { name: "Marketing Video", url: "https://youtu.be/HllGW01hL8E?si=Y4MV5KdFvadc8aKg" },
-    ],
-  },
 ];
 
 const Index = () => {
