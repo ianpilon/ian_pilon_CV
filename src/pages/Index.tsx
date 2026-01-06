@@ -134,8 +134,8 @@ const projects = [
       "Product Strategy",
       "Innovation Frameworks",
     ],
-    websiteUrl: "https://a.co/d/eIP4QuQ",
-    websiteText: "Amazon",
+    websiteUrl: "https://cultivating-clarity.replit.app/",
+    websiteText: "Website",
     image: "https://media.licdn.com/dms/image/v2/D562DAQF4ix9dbqRXXA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1721392290760?e=1767909600&v=beta&t=o7rxNZOcFu0BeyBXgw2-HcVx49L5F0IX6lD8rDTHEls",
   },
   {
