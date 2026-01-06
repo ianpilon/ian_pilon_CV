@@ -1,0 +1,342 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ian Timotheos-Pilon",
+    "label": "Senior AI Solution Architect | Builder | Published Author",
+    "image": "https://ianpilon.github.io/ian_pilon_CV/ian.png",
+    "email": "ianpilon@gmail.com",
+    "url": "https://ianpilon.github.io/ian_pilon_CV/",
+    "summary": "I build at the edges of what's emerging. Over a decade, I've founded communities around nascent technologies—IoT Waterloo (Canada's largest IoT network), ETHWaterloo (world's largest Ethereum hackathon in 2017), and now AI Agents Waterloo. I'm drawn to the intersection of technology and human potential: leading product and AI solutions at Input Output Global, developing NeuroKick (a privacy-focused leadership sidekick), and writing \"Cultivating Clarity\" about discerning what matters using contextual intelligence. Whether it's organizing the world's first Agent-to-Agent Payments Hackathon or convening 400+ developers around decentralized tech, I'm energized by spotting patterns early and creating the conditions for interesting people to collide and build together.",
+    "location": {
+      "city": "Waterloo",
+      "region": "Ontario",
+      "countryCode": "CA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ianpilon",
+        "url": "https://www.linkedin.com/in/ianpilon/"
+      },
+      {
+        "network": "Twitter",
+        "username": "ianpilon",
+        "url": "https://twitter.com/ianpilon"
+      },
+      {
+        "network": "GitHub",
+        "username": "ianpilon",
+        "url": "https://github.com/ianpilon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Input Output (IOHK)",
+      "position": "Senior AI Solution Architect",
+      "url": "https://iohk.io/",
+      "startDate": "2025-07",
+      "summary": "Leading AI solution architecture and driving innovation in blockchain and AI integration.",
+      "highlights": [
+        "Leading AI solution architecture for blockchain integration",
+        "Driving innovation at the intersection of AI and decentralized systems"
+      ]
+    },
+    {
+      "name": "Input Output (IOHK)",
+      "position": "Entrepreneur in Residence",
+      "url": "https://iohk.io/",
+      "startDate": "2024-10",
+      "endDate": "2025-07",
+      "summary": "Driving innovation and exploring new business opportunities at the intersection of blockchain and AI.",
+      "highlights": [
+        "Explored new business opportunities in blockchain and AI",
+        "Drove innovation initiatives across the organization"
+      ]
+    },
+    {
+      "name": "Input Output (IOHK)",
+      "position": "Applied AI Research",
+      "url": "https://iohk.io/",
+      "startDate": "2024-04",
+      "endDate": "2024-10",
+      "summary": "Conducted applied AI research for blockchain applications and decentralized systems.",
+      "highlights": [
+        "Conducted applied AI research for blockchain applications",
+        "Developed AI solutions for decentralized systems"
+      ]
+    },
+    {
+      "name": "Input Output (IOHK)",
+      "position": "Head of Product Design",
+      "url": "https://iohk.io/",
+      "startDate": "2022-05",
+      "endDate": "2024-04",
+      "summary": "Led product design department with 10 direct reports on complex decentralized products.",
+      "highlights": [
+        "Managed team of 10+ direct reports",
+        "Led design for Atala Prism (Identity), Lace (Web3 Wallet), Intersect (Governance)",
+        "Oversaw Project Catalyst (Innovation Funding), Marlowe (Smart Contracts), and RealFi (Micro-Finance)"
+      ]
+    },
+    {
+      "name": "Input Output (IOHK)",
+      "position": "UX Product Designer",
+      "url": "https://iohk.io/",
+      "startDate": "2021-05",
+      "endDate": "2022-05",
+      "summary": "Designed user experiences for blockchain products, focusing on making decentralized technology accessible.",
+      "highlights": [
+        "Designed user experiences for blockchain products",
+        "Made decentralized technology accessible to users"
+      ]
+    },
+    {
+      "name": "Sun Life",
+      "position": "Senior User Experience Architect",
+      "url": "https://www.sunlife.com/",
+      "startDate": "2021-01",
+      "endDate": "2021-12",
+      "summary": "Introduced continuous product discovery as an agile design process lead to improve team velocity from shipping software releases every 14 weeks to shipping a release every 4 weeks.",
+      "highlights": [
+        "Introduced continuous product discovery methodology",
+        "Improved release velocity from 14 weeks to 4 weeks",
+        "Led agile design process transformation"
+      ]
+    },
+    {
+      "name": "ConsenSys",
+      "position": "Senior Product Designer",
+      "url": "https://consensys.io/",
+      "startDate": "2019-01",
+      "endDate": "2019-12",
+      "summary": "Designed user experiences for Web3 and blockchain products, focusing on making decentralized technology accessible and user-friendly for mainstream adoption.",
+      "highlights": [
+        "Designed Web3 and blockchain user experiences",
+        "Focused on mainstream adoption of decentralized technology"
+      ]
+    },
+    {
+      "name": "Arctic Wolf",
+      "position": "Member of Technical Staff",
+      "url": "https://arcticwolf.com/",
+      "startDate": "2018-01",
+      "endDate": "2018-12",
+      "summary": "Designed intuitive interfaces for cybersecurity solutions, helping organizations detect and respond to cyber threats through user-centered security operations platform design.",
+      "highlights": [
+        "Designed cybersecurity product interfaces",
+        "Improved threat detection and response workflows"
+      ]
+    },
+    {
+      "name": "Aterica Digital Health",
+      "position": "Senior UX/UI",
+      "url": "https://aterica.com/",
+      "startDate": "2016-01",
+      "endDate": "2016-12",
+      "summary": "Aterica is a consumer-focused digital health company that develops health measurement, monitoring, and diagnostic products to enable individuals and families to actively manage their health on their own terms.",
+      "highlights": [
+        "Designed digital health products",
+        "Enabled consumer health management tools"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University - Tepper School of Business",
+      "url": "https://www.cmu.edu/tepper/",
+      "area": "Product Management",
+      "studyType": "Certificate",
+      "startDate": "2023",
+      "endDate": "2023",
+      "courses": [
+        "Product Management Academy"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Cultivating Clarity",
+      "publisher": "Self-Published",
+      "releaseDate": "2023-09",
+      "url": "https://cultivating-clarity.replit.app/",
+      "summary": "As AI commoditizes execution, the ability to deeply understand customer context becomes the only sustainable differentiator."
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI & Machine Learning",
+      "level": "Expert",
+      "keywords": [
+        "AI Agents",
+        "AI Solution Architecture",
+        "AI Research",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Product Management & Design",
+      "level": "Expert",
+      "keywords": [
+        "Product Design",
+        "Product Vision",
+        "Strategic Planning",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Blockchain & Web3",
+      "level": "Advanced",
+      "keywords": [
+        "Blockchain",
+        "Web3",
+        "Decentralized Systems",
+        "Smart Contracts"
+      ]
+    },
+    {
+      "name": "Leadership & Community",
+      "level": "Expert",
+      "keywords": [
+        "Community Building",
+        "Entrepreneurship",
+        "Innovation",
+        "Public Speaking"
+      ]
+    },
+    {
+      "name": "Research & Writing",
+      "level": "Advanced",
+      "keywords": [
+        "Contextual Intelligence",
+        "Writing",
+        "Customer Research",
+        "Jobs to Be Done Theory"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Agents Waterloo",
+      "description": "Building and leading a new peer-to-peer network in the Waterloo Region around the theme of AI Agents.",
+      "highlights": [
+        "Founded and lead AI agents community in Waterloo Region",
+        "Organized Voice Hackathon event",
+        "Created peer-to-peer network for AI innovation"
+      ],
+      "keywords": [
+        "Community Building",
+        "AI Agents",
+        "Network Development",
+        "Event Organization"
+      ],
+      "startDate": "2024-11",
+      "url": "https://waterloo-voice-hackathon.replit.app/",
+      "roles": [
+        "Founder",
+        "Community Leader"
+      ],
+      "type": "community"
+    },
+    {
+      "name": "NeuroKick",
+      "description": "Privacy-focused leadership development sidekick that catches issues early, provides objective data and shortens the leadership learning curve.",
+      "highlights": [
+        "Built privacy-focused leadership analytics platform",
+        "Developed behavioral analysis algorithms",
+        "Created leadership development sidekick"
+      ],
+      "keywords": [
+        "AI/ML",
+        "Leadership Analytics",
+        "Privacy-First Design",
+        "Behavioral Analysis",
+        "Data Science"
+      ],
+      "startDate": "2023-09",
+      "endDate": "2024-10",
+      "url": "https://neurokick.ai/",
+      "roles": [
+        "Founder",
+        "Product Developer"
+      ],
+      "type": "application"
+    },
+    {
+      "name": "A2A Payments Hackathon",
+      "description": "Organized and ran the world's first hackathon focused on Agent to Agent payments, pioneering new paradigms in autonomous AI interactions and financial transactions.",
+      "highlights": [
+        "Organized world's first agent-to-agent payments hackathon",
+        "Pioneered AI financial transaction paradigms",
+        "Convened AI and blockchain communities"
+      ],
+      "keywords": [
+        "AI Agents",
+        "Blockchain",
+        "Payment Systems",
+        "Event Management",
+        "Innovation"
+      ],
+      "startDate": "2025-01",
+      "endDate": "2025-02",
+      "url": "https://instant-landing-sculptor.lovable.app/",
+      "roles": [
+        "Organizer",
+        "Event Lead"
+      ],
+      "type": "event"
+    },
+    {
+      "name": "ETHWaterloo",
+      "description": "Co-founded the world's largest Ethereum hackathon in 2017. Brought together over 400 talented hackers and developers from across the world to build decentralized applications. Featured mentorship from Ethereum Founder Vitalik Buterin.",
+      "highlights": [
+        "Co-founded world's largest Ethereum hackathon in 2017",
+        "Convened 400+ developers from 32+ countries",
+        "Featured mentorship from Vitalik Buterin",
+        "Covered by Forbes, BetaKit, and major tech media"
+      ],
+      "keywords": [
+        "Ethereum",
+        "Blockchain",
+        "Hackathon",
+        "Community Building"
+      ],
+      "startDate": "2017-07",
+      "endDate": "2017-08",
+      "url": "https://ethwaterloo.com/",
+      "roles": [
+        "Co-Founder",
+        "Organizer"
+      ],
+      "type": "event"
+    },
+    {
+      "name": "IoT Waterloo",
+      "description": "Founded and led Canada's largest Internet of Things peer-to-peer network in the pre-COVID era. Built a thriving community of innovators, developers, and entrepreneurs focused on IoT technologies.",
+      "highlights": [
+        "Founded Canada's largest IoT peer-to-peer network",
+        "Built thriving community of IoT innovators",
+        "Ran events and meetups for 5 years"
+      ],
+      "keywords": [
+        "Internet of Things",
+        "Community Building",
+        "Hardware",
+        "Innovation"
+      ],
+      "startDate": "2014-01",
+      "endDate": "2019-01",
+      "url": "https://iotwaterloo.github.io/home/",
+      "roles": [
+        "Founder",
+        "Community Leader"
+      ],
+      "type": "community"
+    }
+  ],
+  "meta": {
+    "canonical": "https://ianpilon.github.io/ian_pilon_CV/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2025-01-06"
+  }
+}

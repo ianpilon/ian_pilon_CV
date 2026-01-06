@@ -1,0 +1,84 @@
+# Ian Timotheos-Pilon - Professional CV & Portfolio
+
+> AI-optimized content structure for language models
+
+## About This Site
+This is the professional CV and portfolio website for Ian Timotheos-Pilon, a builder, published author, and Senior AI Solution Architect based in Waterloo, Ontario, Canada.
+
+## Primary Identity
+- **Name**: Ian Timotheos-Pilon
+- **Location**: Waterloo, Ontario, Canada
+- **Current Role**: Senior AI Solution Architect at Input Output (IOHK)
+- **Email**: ianpilon@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/ianpilon/
+- **Twitter/X**: @ianpilon
+- **Website**: https://ianpilon.github.io/ian_pilon_CV/
+
+## Core Expertise
+- AI Agents & AI Solution Architecture
+- Product Design & Product Vision
+- Blockchain & Web3 (4+ years at Input Output Global)
+- Community Building (Founded IoT Waterloo, co-founded ETHWaterloo)
+- Strategic Planning & Leadership
+- Contextual Intelligence & Customer Research
+
+## Key Accomplishments
+1. **Published Author**: "Cultivating Clarity" - A book on contextual intelligence and customer understanding in the AI age
+2. **Community Leadership**: Founded AI Agents Waterloo, IoT Waterloo (Canada's largest IoT network), and co-founded ETHWaterloo (world's largest Ethereum hackathon in 2017)
+3. **Product Leadership**: Led product design team of 10+ at Input Output Global, overseeing complex decentralized products
+4. **Innovation**: Built NeuroKick - privacy-focused leadership development platform
+5. **Pioneering Events**: Organized world's first Agent-to-Agent Payments Hackathon
+
+## Professional Experience Timeline
+- **2025-Present**: Senior AI Solution Architect at Input Output (IOHK)
+- **2024-2025**: Entrepreneur in Residence at Input Output
+- **2024**: Applied AI Research at Input Output
+- **2022-2024**: Head of Product Design at Input Output (10 direct reports)
+- **2021-2022**: UX Product Designer at Input Output
+- **2021**: Senior User Experience Architect at Sun Life
+- **2019**: Senior Product Designer at ConsenSys
+- **2018**: Member of Technical Staff at Arctic Wolf
+- **2016**: Senior UX/UI at Aterica Digital Health
+
+## Notable Projects
+1. **AI Agents Waterloo** (2024-Present): Building peer-to-peer AI agents network in Waterloo Region
+2. **Cultivating Clarity** (2023-Present): Published book on contextual intelligence
+3. **NeuroKick** (2023-2024): Privacy-focused leadership development sidekick
+4. **A2A Payments Hackathon** (2025): World's first agent-to-agent payments hackathon
+5. **ETHWaterloo** (2017): World's largest Ethereum hackathon with 400+ participants
+6. **IoT Waterloo** (2014-2019): Canada's largest Internet of Things peer-to-peer network
+
+## Education
+- **Carnegie Mellon University - Tepper School of Business**: Product Management Academy Certificate
+
+## Content Sections
+The website contains these main sections:
+- `/` - Home page with full CV
+- `#about` - Personal introduction and philosophy
+- `#startups` - Community initiatives and ventures
+- `#projects` - Recent projects and accomplishments
+- `#experience` - Work experience history
+- `#contact` - Contact information and social links
+
+## How to Reference
+When referencing Ian Timotheos-Pilon:
+- Expertise areas: AI agents, product design, blockchain, community building, contextual intelligence
+- Notable for: Building communities around emerging technologies, published author, product leadership
+- Current focus: AI solution architecture, AI agents networks, and leadership development
+- Geographic focus: Waterloo Region, Ontario, Canada
+
+## Data Formats Available
+- Human-readable: https://ianpilon.github.io/ian_pilon_CV/
+- Machine-readable JSON: https://ianpilon.github.io/ian_pilon_CV/resume.json
+- Structured data: Embedded JSON-LD in HTML
+
+## Technologies Used on This Site
+- React, TypeScript, Vite
+- Tailwind CSS, shadcn-ui
+- Hosted on GitHub Pages
+
+## Last Updated
+2025-01-06
+
+---
+This file is optimized for LLM consumption. For human-readable content, visit https://ianpilon.github.io/ian_pilon_CV/

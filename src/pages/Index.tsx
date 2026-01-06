@@ -215,23 +215,28 @@ const startups = [
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background" itemScope itemType="https://schema.org/Person">
+      <meta itemProp="name" content="Ian Timotheos-Pilon" />
+      <meta itemProp="jobTitle" content="Senior AI Solution Architect" />
+      <meta itemProp="email" content="ianpilon@gmail.com" />
+      <meta itemProp="url" content="https://ianpilon.github.io/ian_pilon_CV/" />
       <div className="container max-w-3xl py-16 px-4 sm:px-6">
         {/* Hero Section */}
-        <section className="mb-2 animate-fade-in">
+        <section className="mb-2 animate-fade-in" aria-label="Profile introduction">
           <div className="flex items-start gap-6">
             <div className="w-32 h-32 rounded-full overflow-hidden bg-secondary flex-shrink-0">
               <img
                 src={ianAvatar}
                 alt="Ian Timotheos-Pilon"
                 className="w-full h-full object-cover"
+                itemProp="image"
               />
             </div>
             <div>
-              <h1 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
+              <h1 className="text-3xl sm:text-4xl font-bold text-foreground mb-4" itemProp="headline">
                 Hi 👋, I'm Ian from Waterloo 🇨🇦
               </h1>
-              <p className="text-lg text-muted-foreground">
+              <p className="text-lg text-muted-foreground" itemProp="description">
                 Builder | Connector | Published Author on Contextual Intelligence
               </p>
             </div>
@@ -239,8 +244,8 @@ const Index = () => {
         </section>
 
         {/* About Section */}
-        <Section id="about" title="About">
-          <div className="space-y-4">
+        <Section id="about" title="About" aria-label="About Ian Timotheos-Pilon">
+          <div className="space-y-4" data-section="about">
             <p className="text-muted-foreground leading-relaxed">
               I build at the edges of what's emerging. Over a decade, I've founded communities
               around nascent technologies—IoT Waterloo (Canada's largest IoT network), ETHWaterloo
@@ -270,7 +275,7 @@ const Index = () => {
         </Section>
 
         {/* Community Initiatives Section - Moved to be front and center */}
-        <Section id="startups" title="Community Initiatives">
+        <Section id="startups" title="Community Initiatives" aria-label="Community initiatives and ventures">
           <div className="mb-6">
             <h3 className="text-2xl font-semibold text-foreground mb-2">
               Building Networks Around What's Next
@@ -288,7 +293,7 @@ const Index = () => {
         </Section>
 
         {/* Projects Section */}
-        <Section id="projects" title="Recent Projects">
+        <Section id="projects" title="Recent Projects" aria-label="Recent projects and work">
           <div className="mb-6">
             <h3 className="text-2xl font-semibold text-foreground mb-2">
               Proof of exceptional work
@@ -302,7 +307,7 @@ const Index = () => {
         </Section>
 
         {/* Work Experience Section - Moved down before Contact */}
-        <Section id="experience" title="Work Experience">
+        <Section id="experience" title="Work Experience" aria-label="Professional work experience">
           <div className="space-y-4">
             {workExperience.map((exp) => (
               <ExperienceCard
@@ -314,7 +319,7 @@ const Index = () => {
         </Section>
 
         {/* Contact Section */}
-        <Section id="contact" title="Contact">
+        <Section id="contact" title="Contact" aria-label="Contact information">
           <div className="mb-6">
             <h3 className="text-2xl font-semibold text-foreground mb-2">
               Get in Touch
