@@ -125,7 +125,7 @@ const projects = [
     title: "Cultivating Clarity",
     period: "Sep 2023 - Present",
     description:
-      "The art of discerning what matters using contextual intelligence. Published book arguing that successful innovation stems from deep understanding of customers' struggles, motivations, and aspirations. Draws on perspectives from nine industry experts including Jeff Jonas, Nick Shackleton-Jones, Bob Moesta, and Michael Levin.",
+      "As AI commoditizes execution, the ability to deeply understand customer context becomes the only sustainable differentiator.",
     technologies: [
       "Customer Contextual Intelligence",
       "System 1 & System 2 Thinking",
