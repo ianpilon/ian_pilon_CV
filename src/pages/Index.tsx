@@ -111,7 +111,7 @@ const projects = [
     title: "AI Agents Waterloo Voice Hackathon",
     period: "Nov 2024 - Present",
     description:
-      "Building and leading a new peer-to-peer network in the Waterloo Region around the theme of AI Agents, fostering innovation and collaboration in the AI community.",
+      "Building and leading a new peer-to-peer network in the Waterloo Region around the theme of AI Agents.",
     technologies: [
       "Community Building",
       "AI Agents",
@@ -142,7 +142,7 @@ const projects = [
     title: "NeuroKick",
     period: "Sept 2023 - Oct 2024",
     description:
-      "Privacy-focused leadership development sidekick that catches issues early, provides objective data, scales effortlessly, drives accountability, and proves ROI by connecting behavioral patterns to business outcomes.",
+      "Privacy-focused leadership development sidekick that catches issues early, provides objective data and shortens the leadership learning curve.",
     technologies: [
       "AI/ML",
       "Leadership Analytics",
@@ -154,7 +154,7 @@ const projects = [
     image: neurokickScreenshot,
   },
   {
-    title: "World's First Agent to Agent Payments Hackathon",
+    title: "A2A Payments Hackathon",
     period: "Jan 2025 - Feb 2025",
     description:
       "Organized and ran the world's first hackathon focused on Agent to Agent payments, pioneering new paradigms in autonomous AI interactions and financial transactions.",
@@ -179,7 +179,7 @@ const startups = [
     location: "Waterloo, Ontario",
     period: "Nov 2024 - Present",
     description:
-      "Building and leading a new peer-to-peer network in the Waterloo Region around the theme of AI Agents, fostering innovation and collaboration in the AI community. Creating a space for developers, researchers, and entrepreneurs to explore the future of autonomous AI systems.",
+      "Building and leading a new peer-to-peer network in the Waterloo Region around the theme of AI Agents.",
     backers: [],
     websiteUrl: "https://luma.com/event/manage/evt-eyuHVOSZLD1WhCQ",
   },

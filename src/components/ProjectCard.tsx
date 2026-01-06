@@ -38,7 +38,7 @@ const ProjectCard = ({
             {period}
           </span>
         </div>
-        <p className="text-sm text-muted-foreground mb-4 line-clamp-3">{description}</p>
+        <p className="text-sm text-muted-foreground mb-4 line-clamp-4">{description}</p>
         <div className="flex gap-3">
           {websiteUrl && (
             <a
