@@ -6,6 +6,8 @@ import StartupCard from "@/components/StartupCard";
 import SocialLinks from "@/components/SocialLinks";
 import neurokickScreenshot from "/neurokick-screenshot.png";
 import ianAvatar from "/ian.png";
+import cultivatingClarityImage from "/cultivating-clarity.jpg";
+import a2aPaymentsImage from "/a2a-payments.png";
 
 const workExperience = [
   {
@@ -136,7 +138,7 @@ const projects = [
     ],
     websiteUrl: "https://cultivating-clarity.replit.app/",
     websiteText: "Website",
-    image: "https://media.licdn.com/dms/image/v2/D562DAQF4ix9dbqRXXA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1721392290760?e=1767909600&v=beta&t=o7rxNZOcFu0BeyBXgw2-HcVx49L5F0IX6lD8rDTHEls",
+    image: cultivatingClarityImage,
   },
   {
     title: "NeuroKick",
@@ -165,7 +167,7 @@ const projects = [
       "Event Management",
       "Innovation",
     ],
-    image: "https://media.licdn.com/dms/image/v2/D562DAQG1jffGPQdUjA/profile-treasury-image-shrink_800_800/B56Zb53Ck.G4AY-/0/1747948679779?e=1767913200&v=beta&t=6sxrPymhEF0URQRejSz6NH8Z1-iwus1LRo2cg6IuHMU",
+    image: a2aPaymentsImage,
     websiteUrl: "https://instant-landing-sculptor.lovable.app/",
   },
 ];
