@@ -121,7 +121,7 @@ const projects = [
       "Event Organization",
     ],
     image: "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/vm/e731dca6-b23e-456f-bec5-8353f59f4ca8.png",
-    websiteUrl: "https://waterloo-voice-hackathon.replit.app/",
+    websiteUrl: "https://ai-agents-waterloo-voice-hackathon.replit.app/",
   },
   {
     title: "Cultivating Clarity",
